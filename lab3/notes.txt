@@ -1,0 +1,15 @@
+// 
+// TODO 
+// 1)+/- Errors handling (goto)
+// 2)DONE Header guards, extern, name mangling
+// 3)DONE enums (replace defines)
+// 4)DONE ctrl+l (clear screen + print menu)
+// 5)DONE make
+// 6)DONE shared lib | static lib
+// 7)DONE append "const" qualifier
+// 8)DONE ReDo block-scheme (replace "for" with array_append)
+// 9)DONE ReDo array_append behavior (index < 0)
+// 10)DONE Print array after individual task
+// FEATURE random init
+//
+// квалификатор restrict - на эту переменную ссылается только один указатель

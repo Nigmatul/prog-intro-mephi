@@ -1,0 +1,27 @@
+BasedOnStyle: LLVM
+
+IndentWidth: 4
+TabWidth: 4
+UseTab: Never
+
+BreakBeforeBraces: Attach
+
+ColumnLimit: 100
+
+PointerAlignment: Right
+
+ContinuationIndentWidth: 4
+
+AllowShortFunctionsOnASingleLine: None
+
+IndentCaseLabels: true
+
+AlignOperands: true
+AlignTrailingComments: true
+
+SpaceAfterCStyleCast: true
+SpaceBeforeParens: ControlStatements
+SpacesInParentheses: false
+
+KeepEmptyLinesAtTheStartOfBlocks: false
+MaxEmptyLinesToKeep: 1

@@ -1,0 +1,2715 @@
+This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 23.4) (preloaded format=xelatex 2023.10.15)  21 OCT 2023 12:26
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**./report.tex
+(report.tex
+LaTeX2e <2022-11-01> patch level 1
+L3 programming layer <2023-03-30> (preamble.tex
+(C:\Program Files\MiKTeX\tex/latex/base\article.cls
+Document Class: article 2022/07/02 v1.4n Standard LaTeX document class
+(C:\Program Files\MiKTeX\tex/latex/base\size12.clo
+File: size12.clo 2022/07/02 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count181
+\c@section=\count182
+\c@subsection=\count183
+\c@subsubsection=\count184
+\c@paragraph=\count185
+\c@subparagraph=\count186
+\c@figure=\count187
+\c@table=\count188
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
+\bibindent=\dimen140
+)
+(C:\Program Files\MiKTeX\tex/latex/geometry\geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(C:\Program Files\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+(C:\Program Files\MiKTeX\tex/generic/iftex\ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+(C:\Program Files\MiKTeX\tex/generic/iftex\iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+))
+\Gm@cnth=\count189
+\Gm@cntv=\count190
+\c@Gm@tempcnt=\count191
+\Gm@bindingoffset=\dimen141
+\Gm@wd@mp=\dimen142
+\Gm@odd@mp=\dimen143
+\Gm@even@mp=\dimen144
+\Gm@layoutwidth=\dimen145
+\Gm@layoutheight=\dimen146
+\Gm@layouthoffset=\dimen147
+\Gm@layoutvoffset=\dimen148
+\Gm@dimlist=\toks17
+
+(C:\Program Files\MiKTeX\tex/latex/geometry\geometry.cfg))
+(C:\Program Files\MiKTeX\tex/latex/polyglossia\polyglossia.sty
+Package: polyglossia 2023/10/01 v1.65 Modern multilingual typesetting with XeLa
+TeX and LuaLaTeX
+
+(C:\Program Files\MiKTeX\tex/latex/etoolbox\etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count192
+)
+(C:\Program Files\MiKTeX\tex/latex/makecmds\makecmds.sty
+Package: makecmds 2009/09/03 v1.0a extra command making commands
+)
+(C:\Program Files\MiKTeX\tex/latex/xkeyval\xkeyval.sty
+Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
+
+(C:\Program Files\MiKTeX\tex/generic/xkeyval\xkeyval.tex
+(C:\Program Files\MiKTeX\tex/generic/xkeyval\xkvutils.tex
+\XKV@toks=\toks18
+\XKV@tempa@toks=\toks19
+)
+\XKV@depth=\count193
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+(C:\Program Files\MiKTeX\tex/latex/fontspec\fontspec.sty
+(C:\Program Files\MiKTeX\tex/latex/l3packages/xparse\xparse.sty
+(C:\Program Files\MiKTeX\tex/latex/l3kernel\expl3.sty
+Package: expl3 2023-03-30 L3 programming layer (loader) 
+
+(C:\Program Files\MiKTeX\tex/latex/l3backend\l3backend-xetex.def
+File: l3backend-xetex.def 2023-03-30 L3 backend support: XeTeX
+\g__graphics_track_int=\count194
+\l__pdf_internal_box=\box51
+\g__pdf_backend_object_int=\count195
+\g__pdf_backend_annotation_int=\count196
+\g__pdf_backend_link_int=\count197
+))
+Package: xparse 2023-02-02 L3 Experimental document command parser
+)
+Package: fontspec 2022/01/15 v2.8a Font selection for XeLaTeX and LuaLaTeX
+
+(C:\Program Files\MiKTeX\tex/latex/fontspec\fontspec-xetex.sty
+Package: fontspec-xetex 2022/01/15 v2.8a Font selection for XeLaTeX and LuaLaTe
+X
+\l__fontspec_script_int=\count198
+\l__fontspec_language_int=\count199
+\l__fontspec_strnum_int=\count266
+\l__fontspec_tmp_int=\count267
+\l__fontspec_tmpa_int=\count268
+\l__fontspec_tmpb_int=\count269
+\l__fontspec_tmpc_int=\count270
+\l__fontspec_em_int=\count271
+\l__fontspec_emdef_int=\count272
+\l__fontspec_strong_int=\count273
+\l__fontspec_strongdef_int=\count274
+\l__fontspec_tmpa_dim=\dimen149
+\l__fontspec_tmpb_dim=\dimen150
+\l__fontspec_tmpc_dim=\dimen151
+
+(C:\Program Files\MiKTeX\tex/latex/base\fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+)
+(C:\Program Files\MiKTeX\tex/latex/fontspec\fontspec.cfg)))
+(C:\Program Files\MiKTeX\tex/latex/l3packages/l3keys2e\l3keys2e.sty
+Package: l3keys2e 2023-02-02 LaTeX2e option processing using LaTeX3 keys
+)
+\xpg@normalclass=\XeTeXcharclass1
+
+(C:\Program Files\MiKTeX\tex/latex/polyglossia\gloss-latex.lde
+Package: gloss-latex 2023/10/01 vv1.65 polyglossia: module for default language
+
+The property list \polyglossia@langsetup contains the pairs (without outer
+braces):
+>  {latex/script}  =>  {latin}
+>  {latex/lcscript}  =>  {latin}
+>  {latex/scripttag}  =>  {}
+>  {latex/language}  =>  {Latex}
+>  {latex/langtag}  =>  {ENG}
+>  {latex/bcp47}  =>  {en-US}
+>  {latex/bcp47-language}  =>  {en}
+>  {latex/bcp47-region}  =>  {US}
+>  {latex/bcp47-script}  =>  {Latn}
+>  {latex/bcp47-variant}  =>  {}
+>  {latex/bcp47-extension-t}  =>  {}
+>  {latex/bcp47-extension-u}  =>  {}
+>  {latex/bcp47-extension-x}  =>  {}
+>  {latex/bcp47-casing}  =>  {}
+>  {latex/hyphennames}  =>  {english}
+>  {latex/direction}  =>  {LR}
+>  {latex/hyphenmins}  =>  {2,3}
+>  {latex/frenchspacing}  =>  {false}
+>  {latex/indentfirst}  =>  {false}
+>  {latex/fontsetup}  =>  {true}
+>  {latex/envname}  =>  {latex}
+>  {latex/babelname}  =>  {latex}
+>  {latex/localnumeral}  =>  {polyglossia@C@localnumeral}
+>  {latex/Localnumeral}  =>  {polyglossia@C@localnumeral}
+>  {latex/DefineCommandsCmd}  =>  {use_none:n}.
+)
+Package polyglossia Info: Default language is latex.
+)
+(C:\Program Files\MiKTeX\tex/latex/polyglossia\gloss-russian.ldf
+File: gloss-russian.ldf polyglossia: module for Russian
+
+(C:\Program Files\MiKTeX\tex/latex/polyglossia\xpg-cyrillicnumbers.sty
+Package: xpg-cyrillicnumbers 2019/11/15 v0.2 Formatting of Cyrillic alphabetic 
+numbers
+)
+The property list \polyglossia@langsetup contains the pairs (without outer
+braces):
+>  {latex/script}  =>  {latin}
+>  {latex/lcscript}  =>  {latin}
+>  {latex/scripttag}  =>  {}
+>  {latex/language}  =>  {Latex}
+>  {latex/langtag}  =>  {ENG}
+>  {latex/bcp47}  =>  {en-US}
+>  {latex/bcp47-language}  =>  {en}
+>  {latex/bcp47-region}  =>  {US}
+>  {latex/bcp47-script}  =>  {Latn}
+>  {latex/bcp47-variant}  =>  {}
+>  {latex/bcp47-extension-t}  =>  {}
+>  {latex/bcp47-extension-u}  =>  {}
+>  {latex/bcp47-extension-x}  =>  {}
+>  {latex/bcp47-casing}  =>  {}
+>  {latex/hyphennames}  =>  {english}
+>  {latex/direction}  =>  {LR}
+>  {latex/hyphenmins}  =>  {2,3}
+>  {latex/frenchspacing}  =>  {false}
+>  {latex/indentfirst}  =>  {false}
+>  {latex/fontsetup}  =>  {true}
+>  {latex/envname}  =>  {latex}
+>  {latex/babelname}  =>  {latex}
+>  {latex/localnumeral}  =>  {polyglossia@C@localnumeral}
+>  {latex/Localnumeral}  =>  {polyglossia@C@localnumeral}
+>  {latex/DefineCommandsCmd}  =>  {use_none:n}
+>  {russian/script}  =>  {Cyrillic}
+>  {russian/lcscript}  =>  {cyrillic}
+>  {russian/scripttag}  =>  {cyrl}
+>  {russian/language}  =>  {Russian}
+>  {russian/langtag}  =>  {RUS}
+>  {russian/bcp47}  =>  {ru}
+>  {russian/bcp47-language}  =>  {ru}
+>  {russian/bcp47-region}  =>  {}
+>  {russian/bcp47-script}  =>  {Cyrl}
+>  {russian/bcp47-variant}  =>  {luna1918}
+>  {russian/bcp47-extension-t}  =>  {}
+>  {russian/bcp47-extension-u}  =>  {}
+>  {russian/bcp47-extension-x}  =>  {}
+>  {russian/bcp47-casing}  =>  {}
+>  {russian/hyphennames}  =>  {russian}
+>  {russian/direction}  =>  {LR}
+>  {russian/hyphenmins}  =>  {2,2}
+>  {russian/frenchspacing}  =>  {true}
+>  {russian/indentfirst}  =>  {true}
+>  {russian/fontsetup}  =>  {true}
+>  {russian/envname}  =>  {russian}
+>  {russian/babelname}  =>  {russian}
+>  {russian/localnumeral}  =>  {russiannumerals}
+>  {russian/Localnumeral}  =>  {Russiannumerals}
+>  {russian/DefineCommandsCmd}  =>  {xpg_define_language_commands:e}.
+Package polyglossia Info: Option: Russian, numerals=arabic.
+
+(C:\Program Files\MiKTeX\tex/latex/polyglossia\babelsh.def
+File: babelsh.def 2022/06/21 Babel common definitions for shorthands
+ Taken verbatim from babel files (2022/06/06 v3.76)
+)
+Package babel Info: Making " an active character on input line 106.
+)
+Package polyglossia Info: Default language is russian.
+The property list \polyglossia@langsetup contains the pairs (without outer
+braces):
+>  {latex/script}  =>  {latin}
+>  {latex/lcscript}  =>  {latin}
+>  {latex/scripttag}  =>  {}
+>  {latex/language}  =>  {Latex}
+>  {latex/langtag}  =>  {ENG}
+>  {latex/bcp47}  =>  {en-US}
+>  {latex/bcp47-language}  =>  {en}
+>  {latex/bcp47-region}  =>  {US}
+>  {latex/bcp47-script}  =>  {Latn}
+>  {latex/bcp47-variant}  =>  {}
+>  {latex/bcp47-extension-t}  =>  {}
+>  {latex/bcp47-extension-u}  =>  {}
+>  {latex/bcp47-extension-x}  =>  {}
+>  {latex/bcp47-casing}  =>  {}
+>  {latex/hyphennames}  =>  {english}
+>  {latex/direction}  =>  {LR}
+>  {latex/hyphenmins}  =>  {2,3}
+>  {latex/frenchspacing}  =>  {false}
+>  {latex/indentfirst}  =>  {false}
+>  {latex/fontsetup}  =>  {true}
+>  {latex/envname}  =>  {latex}
+>  {latex/babelname}  =>  {latex}
+>  {latex/localnumeral}  =>  {polyglossia@C@localnumeral}
+>  {latex/Localnumeral}  =>  {polyglossia@C@localnumeral}
+>  {latex/DefineCommandsCmd}  =>  {use_none:n}
+>  {russian/script}  =>  {latin}
+>  {russian/lcscript}  =>  {latin}
+>  {russian/scripttag}  =>  {}
+>  {russian/language}  =>  {Russian}
+>  {russian/langtag}  =>  {}
+>  {russian/bcp47}  =>  {}
+>  {russian/bcp47-language}  =>  {}
+>  {russian/bcp47-region}  =>  {}
+>  {russian/bcp47-script}  =>  {}
+>  {russian/bcp47-variant}  =>  {}
+>  {russian/bcp47-extension-t}  =>  {}
+>  {russian/bcp47-extension-u}  =>  {}
+>  {russian/bcp47-extension-x}  =>  {}
+>  {russian/bcp47-casing}  =>  {}
+>  {russian/hyphennames}  =>  {}
+>  {russian/direction}  =>  {LR}
+>  {russian/hyphenmins}  =>  {2,3}
+>  {russian/frenchspacing}  =>  {false}
+>  {russian/indentfirst}  =>  {true}
+>  {russian/fontsetup}  =>  {false}
+>  {russian/envname}  =>  {russian}
+>  {russian/babelname}  =>  {russian}
+>  {russian/localnumeral}  =>  {polyglossia@C@localnumeral}
+>  {russian/Localnumeral}  =>  {polyglossia@C@localnumeral}
+>  {russian/DefineCommandsCmd}  =>  {xpg_define_language_commands:e}.
+Package polyglossia Info: Skipping automatic font setup for language russian.
+
+Package fontspec Info: Font family 'TimesNewRoman(0)' created for font 'Times
+(fontspec)             New Roman' with options
+(fontspec)             [Mapping=tex-text,Ligatures=TeX].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.: <->"Times New
+(fontspec)             Roman/OT:script=latn;language=dflt;mapping=tex-text;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: <->"Times New
+(fontspec)             Roman/OT:script=latn;language=dflt;+smcp;mapping=tex-tex
+t;"
+(fontspec)             - 'bold' (b/n) with NFSS spec.: <->"Times New
+(fontspec)             Roman/B/OT:script=latn;language=dflt;mapping=tex-text;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: <->"Times
+(fontspec)             New
+(fontspec)             Roman/B/OT:script=latn;language=dflt;+smcp;mapping=tex-t
+ext;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.: <->"Times New
+(fontspec)             Roman/I/OT:script=latn;language=dflt;mapping=tex-text;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.:
+(fontspec)             <->"Times New
+(fontspec)             Roman/I/OT:script=latn;language=dflt;+smcp;mapping=tex-t
+ext;"
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.: <->"Times New
+(fontspec)             Roman/BI/OT:script=latn;language=dflt;mapping=tex-text;"
+
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.:
+(fontspec)             <->"Times New
+(fontspec)             Roman/BI/OT:script=latn;language=dflt;+smcp;mapping=tex-
+text;"
+
+
+Package fontspec Info: Font family 'Arial(0)' created for font 'Arial' with
+(fontspec)             options [Mapping=tex-text,Ligatures=TeX].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"Arial/OT:script=latn;language=dflt;mapping=tex-text;
+"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
+(fontspec)             <->"Arial/OT:script=latn;language=dflt;+smcp;mapping=tex
+-text;"
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->"Arial/B/OT:script=latn;language=dflt;mapping=tex-tex
+t;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.:
+(fontspec)             <->"Arial/B/OT:script=latn;language=dflt;+smcp;mapping=t
+ex-text;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->"Arial/I/OT:script=latn;language=dflt;mapping=tex-tex
+t;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.:
+(fontspec)             <->"Arial/I/OT:script=latn;language=dflt;+smcp;mapping=t
+ex-text;"
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.:
+(fontspec)             <->"Arial/BI/OT:script=latn;language=dflt;mapping=tex-te
+xt;"
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.:
+(fontspec)             <->"Arial/BI/OT:script=latn;language=dflt;+smcp;mapping=
+tex-text;"
+
+
+Package fontspec Info: Font family 'CourierNew(0)' created for font 'Courier
+(fontspec)             New' with options
+(fontspec)             [Mapping=tex-text,WordSpace={1,0,0},HyphenChar=None,Punc
+tuationSpace=WordSpace].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.: <->"Courier
+(fontspec)             New/OT:script=latn;language=dflt;mapping=tex-text;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+(fontspec)             and font adjustment code:
+(fontspec)             \fontdimen 2\font =1\fontdimen 2\font \fontdimen 3\font
+(fontspec)             =0\fontdimen 3\font \fontdimen 4\font =0\fontdimen
+(fontspec)             4\font \fontdimen 7\font =0\fontdimen 2\font
+(fontspec)             \tex_hyphenchar:D \font =-1\scan_stop: 
+(fontspec)             - 'bold' (b/n) with NFSS spec.: <->"Courier
+(fontspec)             New/B/OT:script=latn;language=dflt;mapping=tex-text;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
+(fontspec)             and font adjustment code:
+(fontspec)             \fontdimen 2\font =1\fontdimen 2\font \fontdimen 3\font
+(fontspec)             =0\fontdimen 3\font \fontdimen 4\font =0\fontdimen
+(fontspec)             4\font \fontdimen 7\font =0\fontdimen 2\font
+(fontspec)             \tex_hyphenchar:D \font =-1\scan_stop: 
+(fontspec)             - 'italic' (m/it) with NFSS spec.: <->"Courier
+(fontspec)             New/I/OT:script=latn;language=dflt;mapping=tex-text;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.: 
+(fontspec)             and font adjustment code:
+(fontspec)             \fontdimen 2\font =1\fontdimen 2\font \fontdimen 3\font
+(fontspec)             =0\fontdimen 3\font \fontdimen 4\font =0\fontdimen
+(fontspec)             4\font \fontdimen 7\font =0\fontdimen 2\font
+(fontspec)             \tex_hyphenchar:D \font =-1\scan_stop: 
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.: <->"Courier
+(fontspec)             New/BI/OT:script=latn;language=dflt;mapping=tex-text;"
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.: 
+(fontspec)             and font adjustment code:
+(fontspec)             \fontdimen 2\font =1\fontdimen 2\font \fontdimen 3\font
+(fontspec)             =0\fontdimen 3\font \fontdimen 4\font =0\fontdimen
+(fontspec)             4\font \fontdimen 7\font =0\fontdimen 2\font
+(fontspec)             \tex_hyphenchar:D \font =-1\scan_stop: 
+
+
+Package fontspec Info: Font family 'TimesNewRoman(1)' created for font 'Times
+(fontspec)             New Roman' with options [Mapping=tex-text].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.: <->"Times New
+(fontspec)             Roman/OT:script=latn;language=dflt;mapping=tex-text;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: <->"Times New
+(fontspec)             Roman/OT:script=latn;language=dflt;+smcp;mapping=tex-tex
+t;"
+(fontspec)             - 'bold' (b/n) with NFSS spec.: <->"Times New
+(fontspec)             Roman/B/OT:script=latn;language=dflt;mapping=tex-text;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: <->"Times
+(fontspec)             New
+(fontspec)             Roman/B/OT:script=latn;language=dflt;+smcp;mapping=tex-t
+ext;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.: <->"Times New
+(fontspec)             Roman/I/OT:script=latn;language=dflt;mapping=tex-text;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.:
+(fontspec)             <->"Times New
+(fontspec)             Roman/I/OT:script=latn;language=dflt;+smcp;mapping=tex-t
+ext;"
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.: <->"Times New
+(fontspec)             Roman/BI/OT:script=latn;language=dflt;mapping=tex-text;"
+
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.:
+(fontspec)             <->"Times New
+(fontspec)             Roman/BI/OT:script=latn;language=dflt;+smcp;mapping=tex-
+text;"
+
+
+Package fontspec Info: Font family 'CourierNew(1)' created for font 'Courier
+(fontspec)             New' with options [Mapping=tex-text].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.: <->"Courier
+(fontspec)             New/OT:script=latn;language=dflt;mapping=tex-text;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+(fontspec)             - 'bold' (b/n) with NFSS spec.: <->"Courier
+(fontspec)             New/B/OT:script=latn;language=dflt;mapping=tex-text;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
+(fontspec)             - 'italic' (m/it) with NFSS spec.: <->"Courier
+(fontspec)             New/I/OT:script=latn;language=dflt;mapping=tex-text;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.: 
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.: <->"Courier
+(fontspec)             New/BI/OT:script=latn;language=dflt;mapping=tex-text;"
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.: 
+
+
+Package fontspec Info: Font family 'Arial(1)' created for font 'Arial' with
+(fontspec)             options [Mapping=tex-text].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"Arial/OT:script=latn;language=dflt;mapping=tex-text;
+"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
+(fontspec)             <->"Arial/OT:script=latn;language=dflt;+smcp;mapping=tex
+-text;"
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->"Arial/B/OT:script=latn;language=dflt;mapping=tex-tex
+t;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.:
+(fontspec)             <->"Arial/B/OT:script=latn;language=dflt;+smcp;mapping=t
+ex-text;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->"Arial/I/OT:script=latn;language=dflt;mapping=tex-tex
+t;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.:
+(fontspec)             <->"Arial/I/OT:script=latn;language=dflt;+smcp;mapping=t
+ex-text;"
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.:
+(fontspec)             <->"Arial/BI/OT:script=latn;language=dflt;mapping=tex-te
+xt;"
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.:
+(fontspec)             <->"Arial/BI/OT:script=latn;language=dflt;+smcp;mapping=
+tex-text;"
+
+
+(C:\Program Files\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\Program Files\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\Program Files\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(C:\Program Files\MiKTeX\tex/latex/graphics-cfg\graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: xetex.def on input line 107.
+
+(C:\Program Files\MiKTeX\tex/latex/graphics-def\xetex.def
+File: xetex.def 2022/09/22 v5.0n Graphics/color driver for xetex
+))
+\Gin@req@height=\dimen152
+\Gin@req@width=\dimen153
+)
+(C:\Program Files\MiKTeX\tex/latex/float\float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count275
+\float@exts=\toks20
+\float@box=\box52
+\@float@everytoks=\toks21
+\@floatcapt=\box53
+)
+\@float@every@table=\toks22
+
+(C:\Program Files\MiKTeX\tex/latex/graphics\color.sty
+Package: color 2022/01/06 v1.3d Standard LaTeX Color (DPC)
+
+(C:\Program Files\MiKTeX\tex/latex/graphics-cfg\color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: xetex.def on input line 149.
+
+(C:\Program Files\MiKTeX\tex/latex/graphics\mathcolor.ltx))
+(C:\Program Files\MiKTeX\tex/latex/listings\listings.sty
+\lst@mode=\count276
+\lst@gtempboxa=\box54
+\lst@token=\toks23
+\lst@length=\count277
+\lst@currlwidth=\dimen154
+\lst@column=\count278
+\lst@pos=\count279
+\lst@lostspace=\dimen155
+\lst@width=\dimen156
+\lst@newlines=\count280
+\lst@lineno=\count281
+\lst@maxwidth=\dimen157
+
+(C:\Program Files\MiKTeX\tex/latex/listings\lstmisc.sty
+File: lstmisc.sty 2023/02/27 1.9 (Carsten Heinz)
+\c@lstnumber=\count282
+\lst@skipnumbers=\count283
+\lst@framebox=\box55
+)
+(C:\Program Files\MiKTeX\tex/latex/listings\listings.cfg
+File: listings.cfg 2023/02/27 1.9 listings configuration
+))
+Package: listings 2023/02/27 1.9 (Carsten Heinz)
+) (report.aux)
+\openout1 = `report.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 3.
+LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 3
+.
+
+(C:\Program Files\MiKTeX\tex/latex/base\ts1cmr.fd
+File: ts1cmr.fd 2022/07/10 v2.5l Standard LaTeX font definitions
+)
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: xetex
+*geometry* verbose mode - [ preamble ] result:
+* driver: xetex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(56.9055pt, 512.14963pt, 28.45274pt)
+* v-part:(T,H,B)=(56.9055pt, 731.23584pt, 56.9055pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=512.14963pt
+* \textheight=731.23584pt
+* \oddsidemargin=-15.36449pt
+* \evensidemargin=-15.36449pt
+* \topmargin=-52.36449pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=35.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+
+Package fontspec Info: Adjusting the maths setup (use [no-math] to avoid
+(fontspec)             this).
+
+\symlegacymaths=\mathgroup4
+LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 3.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 3.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 3.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 3.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 3.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 3.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 3.
+LaTeX Font Info:    Redeclaring math accent \check on input line 3.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 3.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 3.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 3.
+LaTeX Font Info:    Redeclaring math symbol \colon on input line 3.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 3.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 3.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 3.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 3.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 3.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 3.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 3.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 3.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 3.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 3.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 3.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 3.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 3.
+LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
+(Font)              `operators' in the math version `normal' on input line 3.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> TU/TimesNewRoman(0)/m/n on input line 3
+.
+LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
+(Font)              `operators' in the math version `bold' on input line 3.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> TU/TimesNewRoman(0)/m/n on input line 
+3.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  TU/TimesNewRoman(0)/m/n --> TU/TimesNewRoman(0)/m/n on 
+input line 3.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> TU/TimesNewRoman(0)/m/it on input line
+ 3.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> TU/TimesNewRoman(0)/b/n on input line 
+3.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> TU/Arial(0)/m/n on input line 3.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> TU/CourierNew(0)/m/n on input line 3.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  TU/TimesNewRoman(0)/m/n --> TU/TimesNewRoman(0)/b/n on 
+input line 3.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> TU/TimesNewRoman(0)/b/it on input lin
+e 3.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> TU/Arial(0)/b/n on input line 3.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> TU/CourierNew(0)/b/n on input line 3.
+The property list \__xpg_alias contains the pairs (without outer braces):
+>  {latex/target}  =>  {latex}
+>  {ru/target}  =>  {russian}
+>  {ru-luna1918/target}  =>  {russian}
+>  {ru-luna1918/options}  =>  {spelling=modern}
+>  {ru-petr1708/target}  =>  {russian}
+>  {ru-petr1708/options}  =>  {spelling=old}
+>  {russian/target}  =>  {russian}.
+\c@lstlisting=\count284
+LaTeX Info: Redefining \rmfamily on input line 3.
+LaTeX Info: Redefining \sffamily on input line 3.
+LaTeX Info: Redefining \ttfamily on input line 3.
+
+Package polyglossia Warning: Asking to add empty feature to latin font(Script="
+latin" to scripttag "") on input line 3.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font (Languag
+e="Russian" to langtag "") on input line 3.
+
+(title.tex
+
+Package polyglossia Warning: Asking to add empty feature to latin font(Script="
+latin" to scripttag "") on input line 13.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font (Languag
+e="Russian" to langtag "") on input line 13.
+
+File: img//logo_university.pdf Graphic file (type pdf)
+<use img//logo_university.pdf>
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 17.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 17.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 17.
+File: img//logo_institute.png Graphic file (type bmp)
+<img//logo_institute.png>
+File: img//logo_department.pdf Graphic file (type pdf)
+<use img//logo_department.pdf>
+
+Package polyglossia Warning: Asking to add empty feature to latin font(Script="
+latin" to scripttag "") on input line 52.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font (Languag
+e="Russian" to langtag "") on input line 52.
+
+[1
+
+]) (task.tex
+
+Package polyglossia Warning: Asking to add empty feature to latin font(Script="
+latin" to scripttag "") on input line 1.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font (Languag
+e="Russian" to langtag "") on input line 1.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font(Script="
+latin" to scripttag "") on input line 4.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font (Languag
+e="Russian" to langtag "") on input line 4.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font(Script="
+latin" to scripttag "") on input line 4.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font (Languag
+e="Russian" to langtag "") on input line 4.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font(Script="
+latin" to scripttag "") on input line 4.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font (Languag
+e="Russian" to langtag "") on input line 4.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font(Script="
+latin" to scripttag "") on input line 5.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font (Languag
+e="Russian" to langtag "") on input line 5.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font(Script="
+latin" to scripttag "") on input line 5.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font (Languag
+e="Russian" to langtag "") on input line 5.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font(Script="
+latin" to scripttag "") on input line 5.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font (Languag
+e="Russian" to langtag "") on input line 5.
+
+
+LaTeX Font Warning: Command \LARGE invalid in math mode on input line 9.
+
+) (data-types.tex
+
+Package polyglossia Warning: Asking to add empty feature to latin font(Script="
+latin" to scripttag "") on input line 1.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font (Languag
+e="Russian" to langtag "") on input line 1.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font(Script="
+latin" to scripttag "") on input line 4.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font (Languag
+e="Russian" to langtag "") on input line 4.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font(Script="
+latin" to scripttag "") on input line 5.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font (Languag
+e="Russian" to langtag "") on input line 5.
+
+)
+
+Package polyglossia Warning: Asking to add empty feature to latin font(Script="
+latin" to scripttag "") on input line 13.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font (Languag
+e="Russian" to langtag "") on input line 13.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font(Script="
+latin" to scripttag "") on input line 13.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font (Languag
+e="Russian" to langtag "") on input line 13.
+
+[2] (math.tex
+
+Package polyglossia Warning: Asking to add empty feature to latin font(Script="
+latin" to scripttag "") on input line 1.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font (Languag
+e="Russian" to langtag "") on input line 1.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font(Script="
+latin" to scripttag "") on input line 4.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font (Languag
+e="Russian" to langtag "") on input line 4.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font(Script="
+latin" to scripttag "") on input line 7.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font (Languag
+e="Russian" to langtag "") on input line 7.
+
+File: img//math.png Graphic file (type bmp)
+<img//math.png>
+) (simplify.tex
+
+Package polyglossia Warning: Asking to add empty feature to latin font(Script="
+latin" to scripttag "") on input line 1.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font (Languag
+e="Russian" to langtag "") on input line 1.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font(Script="
+latin" to scripttag "") on input line 4.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font (Languag
+e="Russian" to langtag "") on input line 4.
+
+File: img//simplify.png Graphic file (type bmp)
+<img//simplify.png>
+) (algorithm.tex
+
+Package polyglossia Warning: Asking to add empty feature to latin font(Script="
+latin" to scripttag "") on input line 1.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font (Languag
+e="Russian" to langtag "") on input line 1.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font(Script="
+latin" to scripttag "") on input line 4.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font (Languag
+e="Russian" to langtag "") on input line 4.
+
+File: img//fc_main.drawio.png Graphic file (type bmp)
+<img//fc_main.drawio.png>
+
+Package polyglossia Warning: Asking to add empty feature to latin font(Script="
+latin" to scripttag "") on input line 7.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font (Languag
+e="Russian" to langtag "") on input line 7.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font(Script="
+latin" to scripttag "") on input line 9.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font (Languag
+e="Russian" to langtag "") on input line 9.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font(Script="
+latin" to scripttag "") on input line 9.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font (Languag
+e="Russian" to langtag "") on input line 9.
+
+[3]
+
+Package polyglossia Warning: Asking to add empty feature to latin font(Script="
+latin" to scripttag "") on input line 11.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font (Languag
+e="Russian" to langtag "") on input line 11.
+
+File: img//fc_get_var.drawio.png Graphic file (type bmp)
+<img//fc_get_var.drawio.png>
+
+Package polyglossia Warning: Asking to add empty feature to latin font(Script="
+latin" to scripttag "") on input line 14.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font (Languag
+e="Russian" to langtag "") on input line 14.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font(Script="
+latin" to scripttag "") on input line 16.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font (Languag
+e="Russian" to langtag "") on input line 16.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font(Script="
+latin" to scripttag "") on input line 16.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font (Languag
+e="Russian" to langtag "") on input line 16.
+
+[4]
+
+Package polyglossia Warning: Asking to add empty feature to latin font(Script="
+latin" to scripttag "") on input line 18.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font (Languag
+e="Russian" to langtag "") on input line 18.
+
+File: img//fc_terms_sum.drawio.png Graphic file (type bmp)
+<img//fc_terms_sum.drawio.png>
+
+Package polyglossia Warning: Asking to add empty feature to latin font(Script="
+latin" to scripttag "") on input line 21.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font (Languag
+e="Russian" to langtag "") on input line 21.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font(Script="
+latin" to scripttag "") on input line 21.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font (Languag
+e="Russian" to langtag "") on input line 21.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font(Script="
+latin" to scripttag "") on input line 21.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font (Languag
+e="Russian" to langtag "") on input line 21.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font(Script="
+latin" to scripttag "") on input line 21.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font (Languag
+e="Russian" to langtag "") on input line 21.
+
+
+Underfull \hbox (badness 1931) in paragraph at lines 21--21
+[]\TU/TimesNewRoman(0)/m/n/12 Рис. 3: Блок-схема алгоритма работы функции \TU/C
+ourierNew(0)/m/n/12 terms_sum_n(x, n) \TU/TimesNewRoman(0)/m/n/12 (слева) и фун
+кции
+ []
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font(Script="
+latin" to scripttag "") on input line 23.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font (Languag
+e="Russian" to langtag "") on input line 23.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font(Script="
+latin" to scripttag "") on input line 23.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font (Languag
+e="Russian" to langtag "") on input line 23.
+
+[5]
+
+Package polyglossia Warning: Asking to add empty feature to latin font(Script="
+latin" to scripttag "") on input line 25.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font (Languag
+e="Russian" to langtag "") on input line 25.
+
+File: img//fc_myabs.drawio.png Graphic file (type bmp)
+<img//fc_myabs.drawio.png>
+
+Package polyglossia Warning: Asking to add empty feature to latin font(Script="
+latin" to scripttag "") on input line 28.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font (Languag
+e="Russian" to langtag "") on input line 28.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font(Script="
+latin" to scripttag "") on input line 30.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font (Languag
+e="Russian" to langtag "") on input line 30.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font(Script="
+latin" to scripttag "") on input line 30.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font (Languag
+e="Russian" to langtag "") on input line 30.
+
+[6]
+
+Package polyglossia Warning: Asking to add empty feature to latin font(Script="
+latin" to scripttag "") on input line 32.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font (Languag
+e="Russian" to langtag "") on input line 32.
+
+File: img//fc_function_value.drawio.png Graphic file (type bmp)
+<img//fc_function_value.drawio.png>
+
+Package polyglossia Warning: Asking to add empty feature to latin font(Script="
+latin" to scripttag "") on input line 35.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font (Languag
+e="Russian" to langtag "") on input line 35.
+
+) (src.tex
+
+Package polyglossia Warning: Asking to add empty feature to latin font(Script="
+latin" to scripttag "") on input line 1.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font (Languag
+e="Russian" to langtag "") on input line 1.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font(Script="
+latin" to scripttag "") on input line 1.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font (Languag
+e="Russian" to langtag "") on input line 1.
+
+[7]
+
+Package polyglossia Warning: Asking to add empty feature to latin font(Script="
+latin" to scripttag "") on input line 2.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font (Languag
+e="Russian" to langtag "") on input line 2.
+
+(C:\Program Files\MiKTeX\tex/latex/listings\lstlang1.sty
+File: lstlang1.sty 2023/02/27 1.9 listings language file
+)
+(C:\Program Files\MiKTeX\tex/latex/listings\lstmisc.sty
+File: lstmisc.sty 2023/02/27 1.9 (Carsten Heinz)
+)
+
+Package polyglossia Warning: Asking to add empty feature to latin font(Script="
+latin" to scripttag "") on input line 8.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font (Languag
+e="Russian" to langtag "") on input line 8.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font(Script="
+latin" to scripttag "") on input line 8.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font (Languag
+e="Russian" to langtag "") on input line 8.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font(Script="
+latin" to scripttag "") on input line 8.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font (Languag
+e="Russian" to langtag "") on input line 8.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font(Script="
+latin" to scripttag "") on input line 8.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font (Languag
+e="Russian" to langtag "") on input line 8.
+
+(src/lab2_n.c
+
+Package polyglossia Warning: Asking to add empty feature to latin font(Script="
+latin" to scripttag "") on input line 1.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font (Languag
+e="Russian" to langtag "") on input line 1.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font(Script="
+latin" to scripttag "") on input line 3.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font (Languag
+e="Russian" to langtag "") on input line 3.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font(Script="
+latin" to scripttag "") on input line 3.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font (Languag
+e="Russian" to langtag "") on input line 3.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font(Script="
+latin" to scripttag "") on input line 4.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font (Languag
+e="Russian" to langtag "") on input line 4.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font(Script="
+latin" to scripttag "") on input line 5.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font (Languag
+e="Russian" to langtag "") on input line 5.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font(Script="
+latin" to scripttag "") on input line 6.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font (Languag
+e="Russian" to langtag "") on input line 6.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font(Script="
+latin" to scripttag "") on input line 8.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font (Languag
+e="Russian" to langtag "") on input line 8.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font(Script="
+latin" to scripttag "") on input line 8.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font (Languag
+e="Russian" to langtag "") on input line 8.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font(Script="
+latin" to scripttag "") on input line 9.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font (Languag
+e="Russian" to langtag "") on input line 9.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font(Script="
+latin" to scripttag "") on input line 11.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font (Languag
+e="Russian" to langtag "") on input line 11.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font(Script="
+latin" to scripttag "") on input line 11.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font (Languag
+e="Russian" to langtag "") on input line 11.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font(Script="
+latin" to scripttag "") on input line 12.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font (Languag
+e="Russian" to langtag "") on input line 12.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font(Script="
+latin" to scripttag "") on input line 13.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font (Languag
+e="Russian" to langtag "") on input line 13.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font(Script="
+latin" to scripttag "") on input line 14.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font (Languag
+e="Russian" to langtag "") on input line 14.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font(Script="
+latin" to scripttag "") on input line 16.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font (Languag
+e="Russian" to langtag "") on input line 16.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font(Script="
+latin" to scripttag "") on input line 16.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font (Languag
+e="Russian" to langtag "") on input line 16.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font(Script="
+latin" to scripttag "") on input line 17.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font (Languag
+e="Russian" to langtag "") on input line 17.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font(Script="
+latin" to scripttag "") on input line 18.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font (Languag
+e="Russian" to langtag "") on input line 18.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font(Script="
+latin" to scripttag "") on input line 19.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font (Languag
+e="Russian" to langtag "") on input line 19.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font(Script="
+latin" to scripttag "") on input line 20.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font (Languag
+e="Russian" to langtag "") on input line 20.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font(Script="
+latin" to scripttag "") on input line 22.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font (Languag
+e="Russian" to langtag "") on input line 22.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font(Script="
+latin" to scripttag "") on input line 22.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font (Languag
+e="Russian" to langtag "") on input line 22.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font(Script="
+latin" to scripttag "") on input line 23.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font (Languag
+e="Russian" to langtag "") on input line 23.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font(Script="
+latin" to scripttag "") on input line 25.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font (Languag
+e="Russian" to langtag "") on input line 25.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font(Script="
+latin" to scripttag "") on input line 25.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font (Languag
+e="Russian" to langtag "") on input line 25.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font(Script="
+latin" to scripttag "") on input line 26.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font (Languag
+e="Russian" to langtag "") on input line 26.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font(Script="
+latin" to scripttag "") on input line 28.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font (Languag
+e="Russian" to langtag "") on input line 28.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font(Script="
+latin" to scripttag "") on input line 28.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font (Languag
+e="Russian" to langtag "") on input line 28.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font(Script="
+latin" to scripttag "") on input line 29.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font (Languag
+e="Russian" to langtag "") on input line 29.
+
+)
+
+Package polyglossia Warning: Asking to add empty feature to latin font(Script="
+latin" to scripttag "") on input line 13.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font (Languag
+e="Russian" to langtag "") on input line 13.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font(Script="
+latin" to scripttag "") on input line 13.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font (Languag
+e="Russian" to langtag "") on input line 13.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font(Script="
+latin" to scripttag "") on input line 13.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font (Languag
+e="Russian" to langtag "") on input line 13.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font(Script="
+latin" to scripttag "") on input line 13.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font (Languag
+e="Russian" to langtag "") on input line 13.
+
+(src/lab2_eps.c
+
+Package polyglossia Warning: Asking to add empty feature to latin font(Script="
+latin" to scripttag "") on input line 1.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font (Languag
+e="Russian" to langtag "") on input line 1.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font(Script="
+latin" to scripttag "") on input line 3.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font (Languag
+e="Russian" to langtag "") on input line 3.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font(Script="
+latin" to scripttag "") on input line 3.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font (Languag
+e="Russian" to langtag "") on input line 3.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font(Script="
+latin" to scripttag "") on input line 4.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font (Languag
+e="Russian" to langtag "") on input line 4.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font(Script="
+latin" to scripttag "") on input line 5.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font (Languag
+e="Russian" to langtag "") on input line 5.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font(Script="
+latin" to scripttag "") on input line 6.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font (Languag
+e="Russian" to langtag "") on input line 6.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font(Script="
+latin" to scripttag "") on input line 8.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font (Languag
+e="Russian" to langtag "") on input line 8.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font(Script="
+latin" to scripttag "") on input line 8.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font (Languag
+e="Russian" to langtag "") on input line 8.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font(Script="
+latin" to scripttag "") on input line 9.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font (Languag
+e="Russian" to langtag "") on input line 9.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font(Script="
+latin" to scripttag "") on input line 11.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font (Languag
+e="Russian" to langtag "") on input line 11.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font(Script="
+latin" to scripttag "") on input line 11.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font (Languag
+e="Russian" to langtag "") on input line 11.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font(Script="
+latin" to scripttag "") on input line 12.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font (Languag
+e="Russian" to langtag "") on input line 12.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font(Script="
+latin" to scripttag "") on input line 13.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font (Languag
+e="Russian" to langtag "") on input line 13.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font(Script="
+latin" to scripttag "") on input line 14.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font (Languag
+e="Russian" to langtag "") on input line 14.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font(Script="
+latin" to scripttag "") on input line 16.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font (Languag
+e="Russian" to langtag "") on input line 16.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font(Script="
+latin" to scripttag "") on input line 16.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font (Languag
+e="Russian" to langtag "") on input line 16.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font(Script="
+latin" to scripttag "") on input line 17.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font (Languag
+e="Russian" to langtag "") on input line 17.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font(Script="
+latin" to scripttag "") on input line 18.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font (Languag
+e="Russian" to langtag "") on input line 18.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font(Script="
+latin" to scripttag "") on input line 19.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font (Languag
+e="Russian" to langtag "") on input line 19.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font(Script="
+latin" to scripttag "") on input line 21.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font (Languag
+e="Russian" to langtag "") on input line 21.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font(Script="
+latin" to scripttag "") on input line 21.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font (Languag
+e="Russian" to langtag "") on input line 21.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font(Script="
+latin" to scripttag "") on input line 22.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font (Languag
+e="Russian" to langtag "") on input line 22.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font(Script="
+latin" to scripttag "") on input line 23.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font (Languag
+e="Russian" to langtag "") on input line 23.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font(Script="
+latin" to scripttag "") on input line 24.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font (Languag
+e="Russian" to langtag "") on input line 24.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font(Script="
+latin" to scripttag "") on input line 25.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font (Languag
+e="Russian" to langtag "") on input line 25.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font(Script="
+latin" to scripttag "") on input line 27.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font (Languag
+e="Russian" to langtag "") on input line 27.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font(Script="
+latin" to scripttag "") on input line 27.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font (Languag
+e="Russian" to langtag "") on input line 27.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font(Script="
+latin" to scripttag "") on input line 27.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font (Languag
+e="Russian" to langtag "") on input line 27.
+
+[8]
+
+Package polyglossia Warning: Asking to add empty feature to latin font(Script="
+latin" to scripttag "") on input line 27.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font (Languag
+e="Russian" to langtag "") on input line 27.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font(Script="
+latin" to scripttag "") on input line 28.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font (Languag
+e="Russian" to langtag "") on input line 28.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font(Script="
+latin" to scripttag "") on input line 30.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font (Languag
+e="Russian" to langtag "") on input line 30.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font(Script="
+latin" to scripttag "") on input line 30.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font (Languag
+e="Russian" to langtag "") on input line 30.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font(Script="
+latin" to scripttag "") on input line 31.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font (Languag
+e="Russian" to langtag "") on input line 31.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font(Script="
+latin" to scripttag "") on input line 32.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font (Languag
+e="Russian" to langtag "") on input line 32.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font(Script="
+latin" to scripttag "") on input line 34.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font (Languag
+e="Russian" to langtag "") on input line 34.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font(Script="
+latin" to scripttag "") on input line 34.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font (Languag
+e="Russian" to langtag "") on input line 34.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font(Script="
+latin" to scripttag "") on input line 35.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font (Languag
+e="Russian" to langtag "") on input line 35.
+
+)
+
+Package polyglossia Warning: Asking to add empty feature to latin font(Script="
+latin" to scripttag "") on input line 18.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font (Languag
+e="Russian" to langtag "") on input line 18.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font(Script="
+latin" to scripttag "") on input line 18.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font (Languag
+e="Russian" to langtag "") on input line 18.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font(Script="
+latin" to scripttag "") on input line 18.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font (Languag
+e="Russian" to langtag "") on input line 18.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font(Script="
+latin" to scripttag "") on input line 18.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font (Languag
+e="Russian" to langtag "") on input line 18.
+
+(src/mylib.c
+
+Package polyglossia Warning: Asking to add empty feature to latin font(Script="
+latin" to scripttag "") on input line 1.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font (Languag
+e="Russian" to langtag "") on input line 1.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font(Script="
+latin" to scripttag "") on input line 2.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font (Languag
+e="Russian" to langtag "") on input line 2.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font(Script="
+latin" to scripttag "") on input line 5.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font (Languag
+e="Russian" to langtag "") on input line 5.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font(Script="
+latin" to scripttag "") on input line 5.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font (Languag
+e="Russian" to langtag "") on input line 5.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font(Script="
+latin" to scripttag "") on input line 5.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font (Languag
+e="Russian" to langtag "") on input line 5.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font(Script="
+latin" to scripttag "") on input line 7.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font (Languag
+e="Russian" to langtag "") on input line 7.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font(Script="
+latin" to scripttag "") on input line 7.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font (Languag
+e="Russian" to langtag "") on input line 7.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font(Script="
+latin" to scripttag "") on input line 8.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font (Languag
+e="Russian" to langtag "") on input line 8.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font(Script="
+latin" to scripttag "") on input line 10.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font (Languag
+e="Russian" to langtag "") on input line 10.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font(Script="
+latin" to scripttag "") on input line 10.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font (Languag
+e="Russian" to langtag "") on input line 10.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font(Script="
+latin" to scripttag "") on input line 11.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font (Languag
+e="Russian" to langtag "") on input line 11.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font(Script="
+latin" to scripttag "") on input line 12.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font (Languag
+e="Russian" to langtag "") on input line 12.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font(Script="
+latin" to scripttag "") on input line 15.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font (Languag
+e="Russian" to langtag "") on input line 15.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font(Script="
+latin" to scripttag "") on input line 15.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font (Languag
+e="Russian" to langtag "") on input line 15.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font(Script="
+latin" to scripttag "") on input line 15.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font (Languag
+e="Russian" to langtag "") on input line 15.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font(Script="
+latin" to scripttag "") on input line 16.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font (Languag
+e="Russian" to langtag "") on input line 16.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font(Script="
+latin" to scripttag "") on input line 17.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font (Languag
+e="Russian" to langtag "") on input line 17.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font(Script="
+latin" to scripttag "") on input line 18.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font (Languag
+e="Russian" to langtag "") on input line 18.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font(Script="
+latin" to scripttag "") on input line 20.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font (Languag
+e="Russian" to langtag "") on input line 20.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font(Script="
+latin" to scripttag "") on input line 20.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font (Languag
+e="Russian" to langtag "") on input line 20.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font(Script="
+latin" to scripttag "") on input line 21.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font (Languag
+e="Russian" to langtag "") on input line 21.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font(Script="
+latin" to scripttag "") on input line 22.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font (Languag
+e="Russian" to langtag "") on input line 22.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font(Script="
+latin" to scripttag "") on input line 23.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font (Languag
+e="Russian" to langtag "") on input line 23.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font(Script="
+latin" to scripttag "") on input line 25.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font (Languag
+e="Russian" to langtag "") on input line 25.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font(Script="
+latin" to scripttag "") on input line 25.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font (Languag
+e="Russian" to langtag "") on input line 25.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font(Script="
+latin" to scripttag "") on input line 26.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font (Languag
+e="Russian" to langtag "") on input line 26.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font(Script="
+latin" to scripttag "") on input line 29.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font (Languag
+e="Russian" to langtag "") on input line 29.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font(Script="
+latin" to scripttag "") on input line 29.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font (Languag
+e="Russian" to langtag "") on input line 29.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font(Script="
+latin" to scripttag "") on input line 29.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font (Languag
+e="Russian" to langtag "") on input line 29.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font(Script="
+latin" to scripttag "") on input line 30.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font (Languag
+e="Russian" to langtag "") on input line 30.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font(Script="
+latin" to scripttag "") on input line 31.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font (Languag
+e="Russian" to langtag "") on input line 31.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font(Script="
+latin" to scripttag "") on input line 33.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font (Languag
+e="Russian" to langtag "") on input line 33.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font(Script="
+latin" to scripttag "") on input line 33.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font (Languag
+e="Russian" to langtag "") on input line 33.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font(Script="
+latin" to scripttag "") on input line 34.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font (Languag
+e="Russian" to langtag "") on input line 34.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font(Script="
+latin" to scripttag "") on input line 35.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font (Languag
+e="Russian" to langtag "") on input line 35.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font(Script="
+latin" to scripttag "") on input line 37.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font (Languag
+e="Russian" to langtag "") on input line 37.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font(Script="
+latin" to scripttag "") on input line 37.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font (Languag
+e="Russian" to langtag "") on input line 37.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font(Script="
+latin" to scripttag "") on input line 38.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font (Languag
+e="Russian" to langtag "") on input line 38.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font(Script="
+latin" to scripttag "") on input line 39.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font (Languag
+e="Russian" to langtag "") on input line 39.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font(Script="
+latin" to scripttag "") on input line 41.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font (Languag
+e="Russian" to langtag "") on input line 41.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font(Script="
+latin" to scripttag "") on input line 41.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font (Languag
+e="Russian" to langtag "") on input line 41.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font(Script="
+latin" to scripttag "") on input line 42.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font (Languag
+e="Russian" to langtag "") on input line 42.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font(Script="
+latin" to scripttag "") on input line 43.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font (Languag
+e="Russian" to langtag "") on input line 43.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font(Script="
+latin" to scripttag "") on input line 44.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font (Languag
+e="Russian" to langtag "") on input line 44.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font(Script="
+latin" to scripttag "") on input line 46.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font (Languag
+e="Russian" to langtag "") on input line 46.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font(Script="
+latin" to scripttag "") on input line 46.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font (Languag
+e="Russian" to langtag "") on input line 46.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font(Script="
+latin" to scripttag "") on input line 47.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font (Languag
+e="Russian" to langtag "") on input line 47.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font(Script="
+latin" to scripttag "") on input line 50.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font (Languag
+e="Russian" to langtag "") on input line 50.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font(Script="
+latin" to scripttag "") on input line 50.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font (Languag
+e="Russian" to langtag "") on input line 50.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font(Script="
+latin" to scripttag "") on input line 50.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font (Languag
+e="Russian" to langtag "") on input line 50.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font(Script="
+latin" to scripttag "") on input line 50.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font (Languag
+e="Russian" to langtag "") on input line 50.
+
+[9]
+
+Package polyglossia Warning: Asking to add empty feature to latin font(Script="
+latin" to scripttag "") on input line 50.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font (Languag
+e="Russian" to langtag "") on input line 50.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font(Script="
+latin" to scripttag "") on input line 51.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font (Languag
+e="Russian" to langtag "") on input line 51.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font(Script="
+latin" to scripttag "") on input line 52.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font (Languag
+e="Russian" to langtag "") on input line 52.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font(Script="
+latin" to scripttag "") on input line 53.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font (Languag
+e="Russian" to langtag "") on input line 53.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font(Script="
+latin" to scripttag "") on input line 56.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font (Languag
+e="Russian" to langtag "") on input line 56.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font(Script="
+latin" to scripttag "") on input line 56.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font (Languag
+e="Russian" to langtag "") on input line 56.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font(Script="
+latin" to scripttag "") on input line 56.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font (Languag
+e="Russian" to langtag "") on input line 56.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font(Script="
+latin" to scripttag "") on input line 57.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font (Languag
+e="Russian" to langtag "") on input line 57.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font(Script="
+latin" to scripttag "") on input line 58.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font (Languag
+e="Russian" to langtag "") on input line 58.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font(Script="
+latin" to scripttag "") on input line 59.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font (Languag
+e="Russian" to langtag "") on input line 59.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font(Script="
+latin" to scripttag "") on input line 60.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font (Languag
+e="Russian" to langtag "") on input line 60.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font(Script="
+latin" to scripttag "") on input line 61.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font (Languag
+e="Russian" to langtag "") on input line 61.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font(Script="
+latin" to scripttag "") on input line 63.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font (Languag
+e="Russian" to langtag "") on input line 63.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font(Script="
+latin" to scripttag "") on input line 63.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font (Languag
+e="Russian" to langtag "") on input line 63.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font(Script="
+latin" to scripttag "") on input line 64.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font (Languag
+e="Russian" to langtag "") on input line 64.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font(Script="
+latin" to scripttag "") on input line 65.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font (Languag
+e="Russian" to langtag "") on input line 65.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font(Script="
+latin" to scripttag "") on input line 66.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font (Languag
+e="Russian" to langtag "") on input line 66.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font(Script="
+latin" to scripttag "") on input line 67.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font (Languag
+e="Russian" to langtag "") on input line 67.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font(Script="
+latin" to scripttag "") on input line 68.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font (Languag
+e="Russian" to langtag "") on input line 68.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font(Script="
+latin" to scripttag "") on input line 69.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font (Languag
+e="Russian" to langtag "") on input line 69.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font(Script="
+latin" to scripttag "") on input line 70.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font (Languag
+e="Russian" to langtag "") on input line 70.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font(Script="
+latin" to scripttag "") on input line 71.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font (Languag
+e="Russian" to langtag "") on input line 71.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font(Script="
+latin" to scripttag "") on input line 72.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font (Languag
+e="Russian" to langtag "") on input line 72.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font(Script="
+latin" to scripttag "") on input line 73.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font (Languag
+e="Russian" to langtag "") on input line 73.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font(Script="
+latin" to scripttag "") on input line 76.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font (Languag
+e="Russian" to langtag "") on input line 76.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font(Script="
+latin" to scripttag "") on input line 76.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font (Languag
+e="Russian" to langtag "") on input line 76.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font(Script="
+latin" to scripttag "") on input line 76.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font (Languag
+e="Russian" to langtag "") on input line 76.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font(Script="
+latin" to scripttag "") on input line 77.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font (Languag
+e="Russian" to langtag "") on input line 77.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font(Script="
+latin" to scripttag "") on input line 78.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font (Languag
+e="Russian" to langtag "") on input line 78.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font(Script="
+latin" to scripttag "") on input line 79.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font (Languag
+e="Russian" to langtag "") on input line 79.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font(Script="
+latin" to scripttag "") on input line 80.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font (Languag
+e="Russian" to langtag "") on input line 80.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font(Script="
+latin" to scripttag "") on input line 81.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font (Languag
+e="Russian" to langtag "") on input line 81.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font(Script="
+latin" to scripttag "") on input line 83.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font (Languag
+e="Russian" to langtag "") on input line 83.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font(Script="
+latin" to scripttag "") on input line 83.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font (Languag
+e="Russian" to langtag "") on input line 83.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font(Script="
+latin" to scripttag "") on input line 84.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font (Languag
+e="Russian" to langtag "") on input line 84.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font(Script="
+latin" to scripttag "") on input line 85.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font (Languag
+e="Russian" to langtag "") on input line 85.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font(Script="
+latin" to scripttag "") on input line 86.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font (Languag
+e="Russian" to langtag "") on input line 86.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font(Script="
+latin" to scripttag "") on input line 87.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font (Languag
+e="Russian" to langtag "") on input line 87.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font(Script="
+latin" to scripttag "") on input line 88.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font (Languag
+e="Russian" to langtag "") on input line 88.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font(Script="
+latin" to scripttag "") on input line 89.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font (Languag
+e="Russian" to langtag "") on input line 89.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font(Script="
+latin" to scripttag "") on input line 90.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font (Languag
+e="Russian" to langtag "") on input line 90.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font(Script="
+latin" to scripttag "") on input line 91.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font (Languag
+e="Russian" to langtag "") on input line 91.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font(Script="
+latin" to scripttag "") on input line 92.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font (Languag
+e="Russian" to langtag "") on input line 92.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font(Script="
+latin" to scripttag "") on input line 93.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font (Languag
+e="Russian" to langtag "") on input line 93.
+
+)) (tests.tex
+
+Package polyglossia Warning: Asking to add empty feature to latin font(Script="
+latin" to scripttag "") on input line 1.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font (Languag
+e="Russian" to langtag "") on input line 1.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font(Script="
+latin" to scripttag "") on input line 3.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font (Languag
+e="Russian" to langtag "") on input line 3.
+
+File: img//tests_n.png Graphic file (type bmp)
+<img//tests_n.png>
+
+Package polyglossia Warning: Asking to add empty feature to latin font(Script="
+latin" to scripttag "") on input line 6.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font (Languag
+e="Russian" to langtag "") on input line 6.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font(Script="
+latin" to scripttag "") on input line 8.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font (Languag
+e="Russian" to langtag "") on input line 8.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font(Script="
+latin" to scripttag "") on input line 8.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font (Languag
+e="Russian" to langtag "") on input line 8.
+
+[10]
+
+Package polyglossia Warning: Asking to add empty feature to latin font(Script="
+latin" to scripttag "") on input line 9.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font (Languag
+e="Russian" to langtag "") on input line 9.
+
+File: img//tests_eps.png Graphic file (type bmp)
+<img//tests_eps.png>
+
+Package polyglossia Warning: Asking to add empty feature to latin font(Script="
+latin" to scripttag "") on input line 12.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font (Languag
+e="Russian" to langtag "") on input line 12.
+
+) (screens.tex
+
+Package polyglossia Warning: Asking to add empty feature to latin font(Script="
+latin" to scripttag "") on input line 1.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font (Languag
+e="Russian" to langtag "") on input line 1.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font(Script="
+latin" to scripttag "") on input line 3.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font (Languag
+e="Russian" to langtag "") on input line 3.
+
+File: img//screen1.png Graphic file (type bmp)
+<img//screen1.png>
+
+Package polyglossia Warning: Asking to add empty feature to latin font(Script="
+latin" to scripttag "") on input line 6.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font (Languag
+e="Russian" to langtag "") on input line 6.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font(Script="
+latin" to scripttag "") on input line 6.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font (Languag
+e="Russian" to langtag "") on input line 6.
+
+)
+
+Package polyglossia Warning: Asking to add empty feature to latin font(Script="
+latin" to scripttag "") on input line 26.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font (Languag
+e="Russian" to langtag "") on input line 26.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font(Script="
+latin" to scripttag "") on input line 26.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font (Languag
+e="Russian" to langtag "") on input line 26.
+
+[11] (conclusion.tex
+
+Package polyglossia Warning: Asking to add empty feature to latin font(Script="
+latin" to scripttag "") on input line 1.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font (Languag
+e="Russian" to langtag "") on input line 1.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font(Script="
+latin" to scripttag "") on input line 3.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font (Languag
+e="Russian" to langtag "") on input line 3.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font(Script="
+latin" to scripttag "") on input line 3.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font (Languag
+e="Russian" to langtag "") on input line 3.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font(Script="
+latin" to scripttag "") on input line 7.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font (Languag
+e="Russian" to langtag "") on input line 7.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font(Script="
+latin" to scripttag "") on input line 7.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font (Languag
+e="Russian" to langtag "") on input line 7.
+
+)
+The property list \polyglossia@langsetup contains the pairs (without outer
+braces):
+>  {latex/script}  =>  {latin}
+>  {latex/lcscript}  =>  {latin}
+>  {latex/scripttag}  =>  {}
+>  {latex/language}  =>  {Latex}
+>  {latex/langtag}  =>  {ENG}
+>  {latex/bcp47}  =>  {en-US}
+>  {latex/bcp47-language}  =>  {en}
+>  {latex/bcp47-region}  =>  {US}
+>  {latex/bcp47-script}  =>  {Latn}
+>  {latex/bcp47-variant}  =>  {}
+>  {latex/bcp47-extension-t}  =>  {}
+>  {latex/bcp47-extension-u}  =>  {}
+>  {latex/bcp47-extension-x}  =>  {}
+>  {latex/bcp47-casing}  =>  {}
+>  {latex/hyphennames}  =>  {english}
+>  {latex/direction}  =>  {LR}
+>  {latex/hyphenmins}  =>  {2,3}
+>  {latex/frenchspacing}  =>  {false}
+>  {latex/indentfirst}  =>  {false}
+>  {latex/fontsetup}  =>  {true}
+>  {latex/envname}  =>  {latex}
+>  {latex/babelname}  =>  {latex}
+>  {latex/localnumeral}  =>  {polyglossia@C@localnumeral}
+>  {latex/Localnumeral}  =>  {polyglossia@C@localnumeral}
+>  {latex/DefineCommandsCmd}  =>  {use_none:n}
+>  {russian/script}  =>  {latin}
+>  {russian/lcscript}  =>  {latin}
+>  {russian/scripttag}  =>  {}
+>  {russian/language}  =>  {Russian}
+>  {russian/langtag}  =>  {}
+>  {russian/bcp47}  =>  {}
+>  {russian/bcp47-language}  =>  {}
+>  {russian/bcp47-region}  =>  {}
+>  {russian/bcp47-script}  =>  {}
+>  {russian/bcp47-variant}  =>  {}
+>  {russian/bcp47-extension-t}  =>  {}
+>  {russian/bcp47-extension-u}  =>  {}
+>  {russian/bcp47-extension-x}  =>  {}
+>  {russian/bcp47-casing}  =>  {}
+>  {russian/hyphennames}  =>  {}
+>  {russian/direction}  =>  {LR}
+>  {russian/hyphenmins}  =>  {2,3}
+>  {russian/frenchspacing}  =>  {false}
+>  {russian/indentfirst}  =>  {true}
+>  {russian/fontsetup}  =>  {false}
+>  {russian/envname}  =>  {russian}
+>  {russian/babelname}  =>  {russian}
+>  {russian/localnumeral}  =>  {polyglossia@C@localnumeral}
+>  {russian/Localnumeral}  =>  {polyglossia@C@localnumeral}
+>  {russian/DefineCommandsCmd}  =>  {xpg_define_language_commands:e}.
+The property list \__xpg_alias contains the pairs (without outer braces):
+>  {latex/target}  =>  {latex}
+>  {ru/target}  =>  {russian}
+>  {ru-luna1918/target}  =>  {russian}
+>  {ru-luna1918/options}  =>  {spelling=modern}
+>  {ru-petr1708/target}  =>  {russian}
+>  {ru-petr1708/options}  =>  {spelling=old}
+>  {russian/target}  =>  {russian}.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font(Script="
+latin" to scripttag "") on input line 29.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font (Languag
+e="Russian" to langtag "") on input line 29.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font(Script="
+latin" to scripttag "") on input line 29.
+
+
+Package polyglossia Warning: Asking to add empty feature to latin font (Languag
+e="Russian" to langtag "") on input line 29.
+
+[12] (report.aux) ) 
+Here is how much of TeX's memory you used:
+ 7721 strings out of 411463
+ 182611 string characters out of 5822269
+ 1906290 words of memory out of 5000000
+ 27799 multiletter control sequences out of 15000+600000
+ 515399 words of font info for 88 fonts, out of 8000000 for 9000
+ 1348 hyphenation exceptions out of 8191
+ 91i,8n,94p,410b,1732s stack positions out of 10000i,1000n,20000p,200000b,200000s
+
+Output written on report.pdf (12 pages).
